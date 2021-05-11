@@ -1,6 +1,7 @@
 # fluttermeteogps
-Application Flutter crossplatform (Android, IOS, WEB)
-Utilisation du GPS
-Intégration d'icons externe
+Application Flutter cross-plateforme (Android, IOS, WEB)
+* Utilisation du GPS
+* Consomation d'une API 
+* Intégration d'icons externe
 
 ![sreen](./assets/img/screen01.png)
